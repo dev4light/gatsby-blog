@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About Us
+title: About Me
 meta_title: About Us | Gatsby Starter Business
 meta_description: >-
   Hello world.
